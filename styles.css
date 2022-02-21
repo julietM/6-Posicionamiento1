@@ -1,0 +1,37 @@
+.caja1{
+    width: 40vh;
+    height: 20vh;
+    background-color: peru;
+    position: static;
+
+    
+   
+    
+}
+.caja2{
+    width: 40vh;
+    height: 30vh;
+    background-color: green;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    
+}
+.caja3{
+    width: 40vh;
+    height: 20vh;
+    background-color: gold;
+    position: absolute;
+    left: 20px;
+    
+    
+}
+.caja4{
+    width: 10vh;
+    height: 10vh;
+    background-color: red;
+    position: sticky;
+    bottom: 0px;
+    
+    
+}
